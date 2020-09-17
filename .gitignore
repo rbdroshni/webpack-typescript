@@ -1,0 +1,10 @@
+node_modules/
+public/bundle.js
+public/vendors~canvg.bundle.js
+public/vendors~pdfmake.bundle.js
+public/vendors~xlsx.bundle.js
+public/xlsx.bundle.js
+
+
+
+
