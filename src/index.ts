@@ -147,3 +147,5 @@ chart.data = [{
   //scrollbars
   chart.scrollbarX = new am4core.Scrollbar();
   chart.scrollbarY = new am4core.Scrollbar();
+
+  //TEST LINE here

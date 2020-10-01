@@ -4,6 +4,7 @@ bundle.js/
 /vendors~pdfmake.bundle.js
 /vendors~xlsx.bundle.js
 /xlsx.bundle.js
+/debug.log
 
 
 
